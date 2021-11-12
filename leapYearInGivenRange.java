@@ -11,6 +11,7 @@ public class leapYearInGivenRange{
 		int count = 0;
 
 		//Applying loops in range of 101 and 2100
+		//You can take the inputs from user if you want
 		for (int i=101; i<=2100;i++){
 			
 			//Condition for LEap year
@@ -25,7 +26,7 @@ public class leapYearInGivenRange{
 			}
 		}
 
-		//Displying total number of leap years
+		//Displying total number of leap years between 101 - 2100
 		System.out.println("Total leap years are: " + count);
 	}
 }
