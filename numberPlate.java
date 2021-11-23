@@ -19,7 +19,7 @@ public class numberPlate{
 			System.out.print(randomCharacter);}
 		
 		//Displaying Numbers of plate
-		for (int i = 1; i<=5; i++){
+		for (int i = 0; i<=3; i++){
 			int randomNumber = random.nextInt(9);
 			System.out.print(randomNumber);}
 	}
