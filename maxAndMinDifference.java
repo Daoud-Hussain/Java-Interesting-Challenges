@@ -4,7 +4,6 @@ elements are also taken as input from the user. Write a program to find those pa
 that have the maximum and minimum difference among all element pairs.
 */
 
-
 import java.util.*;
 public class maxAndMinDifference {
     public static void main(String[] args) {
