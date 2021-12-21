@@ -23,6 +23,7 @@ public class maxAndMinDifference {
         difference(array);
     }
 
+    
     //Sort method to sort the given array
     static void sort(int [] array){
         for (int i = 0; i< array.length; i++){
@@ -37,7 +38,8 @@ public class maxAndMinDifference {
         }
     }
 
-    //Calculating difference for maximum and minimum difference pairs
+    
+    //Method to Calculate difference for maximum and minimum difference pairs
     static void difference(int [] array){
         int maxValue = array[array.length-1];
         int minValue = array[0];
