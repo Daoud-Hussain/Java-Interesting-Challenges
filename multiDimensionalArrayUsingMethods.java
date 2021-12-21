@@ -9,7 +9,6 @@ c) Stud_Highest: Finds highest value in the specified row of the array and retur
 that subject name.
 d) Stud_Lowest: Finds lowest value in the specified row of the array and return that
 subject name.
-
 */
 
 import java.util.*;
