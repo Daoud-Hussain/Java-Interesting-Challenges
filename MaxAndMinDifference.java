@@ -5,7 +5,7 @@ that have the maximum and minimum difference among all element pairs.
 */
 
 
-import java.util.*;
+import java.util.Scanner;
 public class MaxAndMinDifference {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
